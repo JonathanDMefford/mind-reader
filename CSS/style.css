@@ -1,0 +1,12 @@
+html {
+    padding-top: 20px;
+}
+
+h1 {
+    max-height: 350px;
+    overflow: visible;
+}
+
+p {
+    font-size: 20px;
+}
